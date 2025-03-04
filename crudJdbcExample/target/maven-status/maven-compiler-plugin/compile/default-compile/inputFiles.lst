@@ -1,0 +1,5 @@
+/home/manuel/spring/crudJdbcExample/src/main/java/com/example/app/App.java
+/home/manuel/spring/crudJdbcExample/src/main/java/com/example/app/database/DataBaseConfig.java
+/home/manuel/spring/crudJdbcExample/src/main/java/com/example/app/database/DataBaseConnection.java
+/home/manuel/spring/crudJdbcExample/src/main/java/com/example/app/database/UserDAO.java
+/home/manuel/spring/crudJdbcExample/src/main/java/com/example/app/models/User.java
